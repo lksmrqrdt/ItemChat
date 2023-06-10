@@ -1,0 +1,11 @@
+item:
+  empty-hand-warning: "§6You aren't holding an item."
+  keywords:
+    - "[i]"
+    - "[item]"
+inventory:
+  expired-warning: "§6The inventory has either expired or is invalid."
+  cache-duration-minutes: 5
+  keywords:
+    - "[inv]"
+    - "[inventory]"
